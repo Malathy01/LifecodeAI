@@ -1,0 +1,8 @@
+{
+  "name": "MedCheck AI Pro",
+  "description": "A sophisticated medical fact-checking platform that verifies social media claims using AI and professional clinical oversight. Features include image-to-text, voice input, a community wellness hub, and a professional portal for doctors.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
